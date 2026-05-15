@@ -1,0 +1,11 @@
+<resources>
+    <color name="np_primary">#2E7D32</color>
+    <color name="np_on_primary">#FFFFFF</color>
+    <color name="np_secondary">#1565C0</color>
+    <color name="np_on_secondary">#FFFFFF</color>
+    <color name="np_background">#F7F7F7</color>
+    <color name="np_surface">#FFFFFF</color>
+    <color name="np_error">#B00020</color>
+    <color name="np_overdue">#D32F2F</color>
+</resources>
+
